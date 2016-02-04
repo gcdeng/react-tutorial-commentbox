@@ -1,0 +1,29 @@
+[
+    {
+        "author": "Pete Hunt",
+        "text": "This is one comment"
+    },
+    {
+        "author": "Jordan Walke",
+        "text": "This is *another* comment"
+    },
+    {
+        "author": "Eric Deng",
+        "text": "This is *third* comment"
+    },
+    {
+        "id": 1454565538565,
+        "author": "eric",
+        "text": "hello world"
+    },
+    {
+        "id": 1454565753047,
+        "author": "jade",
+        "text": "hi"
+    },
+    {
+        "id": 1454592044415,
+        "author": "React",
+        "text": "cool"
+    }
+]
